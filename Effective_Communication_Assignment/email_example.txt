@@ -1,0 +1,10 @@
+Subject: Need Guidance for Flutter Budget App
+
+Dear Sir/Madam,
+
+I’m building a small budget app using Flutter and wanted to ask if you could share some tips or resources that might help me improve the app’s design or features.
+
+Any advice would mean a lot.
+
+Thank You,
+Payal Adatiya 
