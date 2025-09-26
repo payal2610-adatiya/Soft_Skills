@@ -1,10 +1,10 @@
-Subject: Need Guidance for Flutter Budget App
+Subject: Request for Guidance – Flutter Budget App
 
 Dear Sir/Madam,
 
-I’m building a small budget app using Flutter and wanted to ask if you could share some tips or resources that might help me improve the app’s design or features.
+I hope you are doing well. I am working on a small budget app using Flutter and would be grateful if you could share any advice or resources to help me make it better in terms of design and features.
+Your guidance would mean a lot. 
+Thank you for your time and support.
 
-Any advice would mean a lot.
-
-Thank You,
-Payal Adatiya 
+Kind regards,
+Payal Adatiya
